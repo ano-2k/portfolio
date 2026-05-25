@@ -8,7 +8,7 @@ import { Projects } from "@/components/portfolio/Projects";
 import { Contact } from "@/components/portfolio/Contact";
 import { Certificates } from "@/components/portfolio/Certificates";
 import { Education } from "@/components/portfolio/Education";
-import { Certificate } from "crypto";
+
 
 export const Route = createFileRoute("/")({
   component: Index,
